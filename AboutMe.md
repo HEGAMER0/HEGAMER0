@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @HEGAMER0
-- 👀 I’m interested in programming specially machine learning
-- 🌱 I’m currently learning backend on python.
+-  Hi, I’m @HEGAMER0
+-  I’m interested in programming specially machine learning
+-  I’m currently learning backend on python.
+-  --------------------------------------------------
